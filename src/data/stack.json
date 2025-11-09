@@ -4,200 +4,187 @@
     "subtitle": "Front-end",
     "rating": "★★★★",
     "image": "/img/logos/html5.svg",
-    "backgroundColors": {
-      "top": "#ff5722",
-      "bottom": "#bf360c"
-    }
+    "backgroundColors": { "top": "#ff5722", "bottom": "#bf360c" }
+  },
+  {
+    "title": "CSS",
+    "subtitle": "Front-end",
+    "rating": "★★★★",
+    "image": "/img/logos/css3.svg",
+    "backgroundColors": { "top": "#264de4", "bottom": "#1b3a94" }
   },
   {
     "title": "JavaScript",
     "subtitle": "Front-end",
-    "rating": "★★★★★",
+    "rating": "★★★★",
     "image": "/img/logos/javascript.svg",
-    "backgroundColors": {
-      "top": "#f7df1e",
-      "bottom": "#bba707"
-    }
+    "backgroundColors": { "top": "#f7df1e", "bottom": "#bba707" }
   },
   {
-    "title": "Python",
-    "subtitle": "Back-end",
-    "rating": "★★★★★",
-    "image": "/img/logos/python.svg",
-    "backgroundColors": {
-      "top": "#306998",
-      "bottom": "#224d6b"
-    }
-  },
-  {
-    "title": "Flask",
-    "subtitle": "Back-end",
-    "rating": "★★★★",
-    "image": "/img/logos/flask.svg",
-    "backgroundColors": {
-      "top": "#212121",
-      "bottom": "#000000"
-    }
-  },
-  {
-    "title": "SQL",
-    "subtitle": "Base de données",
-    "rating": "★★★★",
-    "image": "/img/logos/sql.svg",
-    "backgroundColors": {
-      "top": "#00758f",
-      "bottom": "#00495d"
-    }
+    "title": "TypeScript",
+    "subtitle": "Front-end",
+    "rating": "★★★",
+    "image": "/img/logos/typescript.svg",
+    "backgroundColors": { "top": "#3178c6", "bottom": "#1f5fa5" }
   },
   {
     "title": "Angular",
     "subtitle": "Front-end",
-    "rating": "★★★",
+    "rating": "★★★★",
     "image": "/img/logos/angular.svg",
-    "backgroundColors": {
-      "top": "#dd0031",
-      "bottom": "#a3001f"
-    }
-  },
-  {
-    "title": "Apache Kafka",
-    "subtitle": "Streaming",
-    "rating": "★",
-    "image": "/img/logos/kafka.svg",
-    "backgroundColors": {
-      "top": "#282828",
-      "bottom": "#121212"
-    }
-  },
-  {
-    "title": "PHP",
-    "subtitle": "Back-end",
-    "rating": "★★★",
-    "image": "/img/logos/php.svg",
-    "backgroundColors": {
-      "top": "#8892be",
-      "bottom": "#5e6caa"
-    }
-  },
-  {
-    "title": "Docker",
-    "subtitle": "Outils DevOps",
-    "rating": "★",
-    "image": "/img/logos/docker.svg",
-    "backgroundColors": {
-      "top": "#0db7ed",
-      "bottom": "#097eae"
-    }
-  },
-  {
-    "title": "Symfony",
-    "subtitle": "Back-end",
-    "rating": "★★",
-    "image": "/img/logos/symfony.svg",
-    "backgroundColors": {
-      "top": "#1e1e1e",
-      "bottom": "#000000"
-    }
+    "backgroundColors": { "top": "#dd0031", "bottom": "#a3001f" }
   },
   {
     "title": "React",
     "subtitle": "Front-end",
     "rating": "★★★",
     "image": "/img/logos/react.svg",
-    "backgroundColors": {
-      "top": "#61dafb",
-      "bottom": "#2d9ecf"
-    }
+    "backgroundColors": { "top": "#61dafb", "bottom": "#2d9ecf" }
   },
   {
-    "title": "API",
-    "subtitle": "Architecture",
-    "rating": "★★",
-    "image": "/img/logos/api.svg",
-    "backgroundColors": {
-      "top": "#37474f",
-      "bottom": "#263238"
-    }
-  },
-  {
-    "title": "MVC",
-    "subtitle": "Architecture",
-    "rating": "★★",
-    "image": "/img/logos/mvc.svg",
-    "backgroundColors": {
-      "top": "#37474f",
-      "bottom": "#263238"
-    }
-  },
-  {
-    "title": "CSS",
+    "title": "Three.js",
     "subtitle": "Front-end",
     "rating": "★★★",
-    "image": "/img/logos/css3.svg",
-    "backgroundColors": {
-      "top": "#264de4",
-      "bottom": "#1b3a94"
-    }
+    "image": "/img/logos/threejs.svg",
+    "backgroundColors": { "top": "#1fbd00", "bottom": "#959595" }
+  },
+  {
+    "title": "Telerik UI",
+    "subtitle": "Front-end",
+    "rating": "★★★",
+    "image": "/img/logos/telerik.png",
+    "backgroundColors": { "top": "#52e81e", "bottom": "#2e139c" }
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "Front-end",
+    "rating": "★★★",
+    "image": "/img/logos/jquery.svg",
+    "backgroundColors": { "top": "#0769ad", "bottom": "#034c7e" }
   },
   {
     "title": "Bootstrap",
     "subtitle": "Front-end",
-    "rating": "★★★★",
+    "rating": "★★★",
     "image": "/img/logos/bootstrap.svg",
-    "backgroundColors": {
-      "top": "#7952b3",
-      "bottom": "#563d7c"
-    }
+    "backgroundColors": { "top": "#7952b3", "bottom": "#563d7c" }
+  },
+
+  {
+    "title": "C#",
+    "subtitle": "Back-end",
+    "rating": "★★★",
+    "image": "/img/logos/csharp.svg",
+    "backgroundColors": { "top": "#68217a", "bottom": "#330a3b" }
   },
   {
-    "title": "Tailwind CSS",
-    "subtitle": "Front-end",
-    "rating": "★★",
-    "image": "/img/logos/tailwind.svg",
-    "backgroundColors": {
-      "top": "#38bdf8",
-      "bottom": "#0ea5e9"
-    }
+    "title": "ASP.NET WebForms",
+    "subtitle": "Back-end",
+    "rating": "★★★",
+    "image": "/img/logos/aspnet.svg",
+    "backgroundColors": { "top": "#5c2d91", "bottom": "#2e164b" }
   },
   {
-    "title": "Phalcon",
+    "title": "PHP",
     "subtitle": "Back-end",
     "rating": "★★",
-    "image": "/img/logos/phalcon.svg",
-    "backgroundColors": {
-      "top": "#9be5c2",
-      "bottom": "#3ca28c"
-    }
+    "image": "/img/logos/php.svg",
+    "backgroundColors": { "top": "#8892be", "bottom": "#5e6caa" }
   },
   {
-    "title": "PostgreSQL",
+    "title": "Python",
+    "subtitle": "Back-end",
+    "rating": "★★",
+    "image": "/img/logos/python.svg",
+    "backgroundColors": { "top": "#306998", "bottom": "#224d6b" }
+  },
+  {
+    "title": "Node.js",
+    "subtitle": "Back-end",
+    "rating": "★★",
+    "image": "/img/logos/nodejs.svg",
+    "backgroundColors": { "top": "#539e43", "bottom": "#3b6f2f" }
+  },
+
+  {
+    "title": "Oracle SQL",
     "subtitle": "Base de données",
     "rating": "★★",
-    "image": "/img/logos/postgresq.svg",
-    "backgroundColors": {
-      "top": "#336791",
-      "bottom": "#224361"
-    }
+    "image": "/img/logos/oracle.svg",
+    "backgroundColors": { "top": "#f80000", "bottom": "#990000" }
   },
   {
     "title": "SQL Server",
     "subtitle": "Base de données",
     "rating": "★★",
     "image": "/img/logos/sqlserver.svg",
-    "backgroundColors": {
-      "top": "#a6192e",
-      "bottom": "#73001f"
-    }
+    "backgroundColors": { "top": "#a6192e", "bottom": "#73001f" }
   },
   {
     "title": "MySQL",
     "subtitle": "Base de données",
     "rating": "★★",
     "image": "/img/logos/mysql.svg",
-    "backgroundColors": {
-      "top": "#00758f",
-      "bottom": "#f29111"
-    }
-  }
+    "backgroundColors": { "top": "#00758f", "bottom": "#f29111" }
+  },
 
+  {
+    "title": "Docker",
+    "subtitle": "DevOps / Delivery",
+    "rating": "★★★",
+    "image": "/img/logos/docker.svg",
+    "backgroundColors": { "top": "#2496ED", "bottom": "#0B79C1" }
+  },
+  {
+    "title": "GitHub Actions",
+    "subtitle": "DevOps / Delivery",
+    "rating": "★★",
+    "image": "/img/logos/github-actions.svg",
+    "backgroundColors": { "top": "#2088FF", "bottom": "#0A66C2" }
+  },
+
+  {
+    "title": "TouchDesigner",
+    "subtitle": "3D / Interactif",
+    "rating": "★★",
+    "image": "/img/logos/touchdesigner.png",
+    "backgroundColors": { "top": "#ffcc00", "bottom": "#b38f00" }
+  },
+  {
+    "title": "Unity (XR)",
+    "subtitle": "3D / Interactif",
+    "rating": "★★★",
+    "image": "/img/logos/unity.svg",
+    "backgroundColors": { "top": "#222c37", "bottom": "#878787" }
+  },
+  {
+    "title": "Blender",
+    "subtitle": "3D / Interactif",
+    "rating": "★★",
+    "image": "/img/logos/blender.svg",
+    "backgroundColors": { "top": "#e87d0d", "bottom": "#b15f08" }
+  },
+
+  {
+    "title": "API REST",
+    "subtitle": "Architecture",
+    "rating": "★★★",
+    "image": "/img/logos/api.svg",
+    "backgroundColors": { "top": "#37474f", "bottom": "#263238" }
+  },
+  {
+    "title": "MVC",
+    "subtitle": "Architecture",
+    "rating": "★★★",
+    "image": "/img/logos/mvc.svg",
+    "backgroundColors": { "top": "#37474f", "bottom": "#263238" }
+  },
+
+  {
+    "title": "Socket.IO",
+    "subtitle": "Temps réel",
+    "rating": "★★★",
+    "image": "/img/logos/socketio.svg",
+    "backgroundColors": { "top": "#010101", "bottom": "#333333" }
+  }
 ]

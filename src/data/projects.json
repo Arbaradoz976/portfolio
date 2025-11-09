@@ -1,62 +1,74 @@
 [
   {
-    "title": "Digitalisation du Laboratoire - KNS",
-    "description": "Développement d’une application Flask pour gérer les échantillons et les intégrer automatiquement dans le LIMS via des codes barres.",
-    "techs": ["Flask", "Python", "SQL Server", "Bootstrap", "HTML/CSS", "JavaScript", "IIS"],
-    "image": "/img/projects/labo.png"
+    "title": "ParKoTo Mobile",
+    "subtitle": "Province Nord · ASP.NET WebForms",
+    "description": "Refonte mobile-first de la réservation de véhicules : nav basse, formulaires épurés, icônes dédiées.",
+    "techs": ["C#", "ASP.NET WebForms", "Telerik UI", "Oracle SQL", "jQuery", "CSS"],
+    "link": null,
+    "image": "/img/projects/parkoto.png"
   },
   {
-    "title": "Monitoring de flux SSIS",
-    "description": "Création d’une interface web pour déclencher manuellement les flux SSIS, visualiser les statuts et recevoir des alertes métiers.",
-    "techs": ["Flask", "Python", "SSIS", "SQL Server", "HTML/CSS", "Bootstrap", "IIS"],
-    "image": "/img/projects/etl.png"
+    "title": "GESBAT — Vues & rationalisation Oracle",
+    "subtitle": "Province Nord · Back-end",
+    "description": "Vues de synthèse (équipements/contrôles), homogénéisation des champs, optimisations de requêtes pour RadGrid et exports.",
+    "techs": ["Oracle SQL", "PL/SQL", "ASP.NET WebForms", "Telerik UI"],
+    "link": null,
+    "image": "/img/projects/gesbat.png"
   },
   {
-    "title": "Matching formation et zone d'accès",
-    "description": "Script Python connecté aux API internes et à SAP SuccessFactors pour automatiser les accès via le système de badge Gallagher.",
-    "techs": ["Python", "API REST", "JSON", "SAP SuccessFactors", "Postman"],
-    "image": "/img/projects/badgeuse.png"
+    "title": "Migration Odoo → TeePee",
+    "subtitle": "AXIANS NC · Stage 2024",
+    "description": "Modèle relationnel, formulaires, workflows, intégration Codex et formation utilisateurs. Passation à l’interne documentée.",
+    "techs": ["TeePee", "Modélisation SQL", "Workflows", "Documentation"],
+    "link": null,
+    "image": "/img/projects/teepee.png"
   },
   {
-    "title": "Analyse statistique - Pau",
-    "description": "Projet d’étude sur le terrain : élaboration de questionnaires, collecte de données, traitement et analyse via SPHINX.",
-    "techs": ["SPHINX", "Analyse de données", "Méthodologie d’enquête", "Rédaction de rapport"],
-    "image": "/img/projects/stats.png"
+    "title": "Hypérion",
+    "subtitle": "Angular + PHP",
+    "description": "Application web avec login/inscription via API, carrousel produits et gestion d’images. Séparation front/back claire.",
+    "techs": ["Angular", "TypeScript", "PHP", "REST", "JWT"],
+    "link": null,
+    "image": "/img/projects/hyperion.png"
   },
   {
-    "title": "Migration SharePoint vers SQL Server",
-    "description": "Script PowerShell pour extraire automatiquement les données SharePoint vers SQL Server, intégration dans des flux SSIS.",
-    "techs": ["PowerShell", "PnP PowerShell", "SharePoint Online", "SQL Server", "SSIS"],
-    "image": "/img/projects/sharepoint.png"
+    "title": "Globe Météo (3D)",
+    "subtitle": "React-Three-Fiber",
+    "description": "Globe 3D interactif avec données météo, interactions caméra et déploiement Netlify.",
+    "techs": ["React", "Three.js", "R3F", "Vite"],
+    "link": "https://globe-meteo.netlify.app/",
+    "image": "/img/projects/globe-meteo.png"
   },
   {
-    "title": "Traitement des énergies renouvelables",
-    "description": "Analyse de données issues de l’hydroélectricité et automatisation du traitement à l’aide de scripts Python et JSON.",
-    "techs": ["Python", "JSON", "Analyse de données"],
-    "image": "/img/projects/energies.png"
+    "title": "Pacific Spirit",
+    "subtitle": "Installation interactive",
+    "description": "Ambiances kanak/wallisienne/tahitienne, capteurs et éclairage connecté (Hue/LIFX) pilotés en temps réel.",
+    "techs": ["TouchDesigner", "IoT", "Audio-réactif", "Lumière connectée"],
+    "link": null,
+    "image": "/img/projects/pacific-spirit.png"
   },
   {
-    "title": "Portfolio interactif 2025",
-    "description": "Création d’un portfolio dynamique avec React et Tailwind, animations fluides et affichage des données via fichiers JSON.",
-    "techs": ["React", "Tailwind CSS", "Vite", "JSON", "Responsive Design"],
-    "image": "/img/projects/portfolio.png"
+    "title": "Une Histoire de Couleurs",
+    "subtitle": "Bio-feedback",
+    "description": "Génération de couleurs et textures sonores à partir de la fréquence cardiaque de l’utilisateur.",
+    "techs": ["Capteurs", "TouchDesigner", "Audio", "Temps réel"],
+    "link": null,
+    "image": "/img/projects/histoires-couleurs.png"
   },
   {
-    "title": "Application Web Flask & Deezer API",
-    "description": "Développement d’une interface Flask pour afficher et convertir des playlists personnalisées en utilisant l’API de Deezer.",
-    "techs": ["Flask", "API Deezer", "Python", "HTML/CSS", "JavaScript"],
-    "image": "/img/projects/deezer.png"
+    "title": "Musée VR",
+    "subtitle": "Meta Quest 3S",
+    "description": "Exposition virtuelle d’œuvres BUT MMI en VR (parcours, interactions de base, optimisation).",
+    "techs": ["Unity", "XR", "VR"],
+    "link": null,
+    "image": "/img/projects/musee-vr.png"
   },
   {
-    "title": "Smails : remplacement d’ActiveMQ par Kafka",
-    "description": "Déploiement de Kafka avec Docker pour remplacer ActiveMQ dans une architecture Java Spring Boot distribuée.",
-    "techs": ["Spring Boot", "Java", "Apache Kafka", "Docker"],
-    "image": "/img/projects/kafka.png"
-  },
-  {
-    "title": "Smails : mise à jour Angular",
-    "description": "Refonte front-end sous Angular, migration progressive vers Angular 19 et intégration de nouvelles fonctionnalités avec PrimeNG.",
-    "techs": ["Angular", "TypeScript", "HTML/CSS", "JavaScript", "Bootstrap", "PrimeNG", "Angular Material"],
-    "image": "/img/projects/kafka.png"
+    "title": "Coin Clicker Multi / Disguise.io",
+    "subtitle": "Protos temps réel",
+    "description": "Jeux multi avec synchronisation Socket.IO et mécaniques d’infiltration (IA PNJ, détection chasseurs).",
+    "techs": ["Phaser", "Socket.IO", "Node.js"],
+    "link": null,
+    "image": "/img/projects/games.png"
   }
 ]

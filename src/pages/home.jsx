@@ -5,7 +5,6 @@ import StackTabs from '../components/StackTabs';
 import chaosBg from '../assets/img/background/chaos.svg';
 import About from "../components/About";
 import ProjectCard from "../components/ProjectCard.jsx";
-import ToShare from "../components/ToShare.jsx";
 import ContactForm from "../components/ContactForm";
 
 export default function Home() {
@@ -53,8 +52,6 @@ export default function Home() {
 
             {/* Séparateur flouté élégant */}
             <div className="w-full h-[2px] bg-gradient-to-r from-[#00ffd0]/30 via-[#7f00ff]/50 to-[#00ffd0]/30 backdrop-blur-sm" />
-
-            <ToShare />
 
             <section id="contact" className="py-16 bg-gradient-to-b from-gray-900 to-black text-white">
                 <div className="container mx-auto px-4">
